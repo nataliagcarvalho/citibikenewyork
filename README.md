@@ -29,6 +29,7 @@ The project's goal is to do an exploratory analysis of the <a href="https://cons
 And based on this exploratory analysis, take insights, conclusions and recommendations.
 
 ***
+# Exploratory Analysis, Conclusion and Recommendation
 
 As it's a very big and heavy dataset, I've decided to do the dashboard and all the analysis directly in <a href="https://datastudio.google.com/u/0/reporting/aa7fc860-9d52-4da8-b2cf-0c0137b07d0d/page/p_ti02m34oyc">Google Data Studio</a>.
 
