@@ -4,7 +4,7 @@
 
 ***
 
-This is a extra project for a technical challenge at IBM as part of the Laboratoria and IBM Data Analytic Certification.
+This is an extra project for a technical challenge at IBM as part of the Laboratoria and IBM Data Analytic Certification.
 
 ***
 
